@@ -1,0 +1,24 @@
+.navbar{
+    display:flex;
+    justify-content:space-around;
+}
+
+.navbar_items{
+    font-size: 1.1em;
+    list-style:none;
+    display:flex;
+    justify-content:center;
+    gap: 20px;
+    padding-top: 20px;
+
+}
+
+.img{
+    width: 200px;
+    object-fit: cover;
+}
+
+.navbar_items li:hover{
+    color: rgb(57, 57, 206);
+    cursor: pointer;
+}

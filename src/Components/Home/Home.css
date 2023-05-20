@@ -1,0 +1,55 @@
+.home{
+display: flex;
+margin: 50px auto;
+justify-content: center;
+}
+.home_item{
+font-size: 25px;
+}
+.button{
+background-image: linear-gradient(to right, rgb(176, 71, 190), rgb(45, 78, 101));
+width: 6.2em;
+height: 2em;
+border-radius: 5px;
+border: none;
+color: white;
+font-size: 20px;
+margin: 5px;
+padding-top: 5px;
+animation: moveside 1s ease-in;
+}
+.button:hover{
+cursor: pointer;
+background-image: linear-gradient(to right, rgb(167, 162, 168), rgb(3, 150, 254));
+}
+#mypic{
+width:400px;
+border-radius:10px;
+animation: movein 1s ease-in-out;
+}
+@keyframes moveside {
+0%{
+transform: translateX(-100%);
+opacity: 0;
+}
+100%{
+transform: translateX(0%);
+opacity: 1;
+}
+}
+@keyframes movein {
+0%{
+transform: translateX(100%);
+opacity: 0;
+}
+100%{
+transform: translateX(0%);
+opacity: 1;
+}
+}
+
+@media only screen and (max-width:600px){
+.home_item{
+font-size: 20px;
+padding-top: -10px;}
+}
