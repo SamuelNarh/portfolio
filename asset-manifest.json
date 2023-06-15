@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.21fe4152.css",
-    "main.js": "/portfolio/static/js/main.7e2fb4f4.js",
+    "main.css": "/portfolio/static/css/main.ac98a823.css",
+    "main.js": "/portfolio/static/js/main.c5b882ba.js",
     "static/js/787.63434964.chunk.js": "/portfolio/static/js/787.63434964.chunk.js",
     "static/media/mypic.JPG": "/portfolio/static/media/mypic.a20fe096fa219de955dd.JPG",
     "static/media/robot.jpg": "/portfolio/static/media/robot.bd6f343b81af6ea9c91e.jpg",
     "static/media/phone.png": "/portfolio/static/media/phone.64d3a6da161fb6ea280b.png",
     "static/media/disabled.jpg": "/portfolio/static/media/disabled.fb3a0ed42dddfbc512a6.jpg",
+    "static/media/Narh Samuel_CV.pdf": "/portfolio/static/media/Narh Samuel_CV.bd07bfc8acad58862ccc.pdf",
     "static/media/facedetect.JPG": "/portfolio/static/media/facedetect.32d50c7ca4f5ed92cf47.JPG",
     "index.html": "/portfolio/index.html",
-    "main.21fe4152.css.map": "/portfolio/static/css/main.21fe4152.css.map",
-    "main.7e2fb4f4.js.map": "/portfolio/static/js/main.7e2fb4f4.js.map",
+    "main.ac98a823.css.map": "/portfolio/static/css/main.ac98a823.css.map",
+    "main.c5b882ba.js.map": "/portfolio/static/js/main.c5b882ba.js.map",
     "787.63434964.chunk.js.map": "/portfolio/static/js/787.63434964.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21fe4152.css",
-    "static/js/main.7e2fb4f4.js"
+    "static/css/main.ac98a823.css",
+    "static/js/main.c5b882ba.js"
   ]
 }
